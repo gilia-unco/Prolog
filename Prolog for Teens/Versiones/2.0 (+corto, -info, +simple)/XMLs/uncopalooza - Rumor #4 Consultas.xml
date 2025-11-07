@@ -1,0 +1,275 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="prolog_fact" id="!q!M/:P7cPia2*%DX+HF" x="-1390" y="530">
+    <value name="PREDICATE">
+      <block type="prolog_predicate" id="MlQSkI%XJM9f[wdA3~Vk">
+        <field name="PREDICATE_NAME">es_banda</field>
+      </block>
+    </value>
+    <statement name="FACT_ARGS">
+      <shadow type="info_block_statement" id="-|oMQur1xa2W~O2x)K.e">
+        <field name="TEXT">Terme ..</field>
+      </shadow>
+      <block type="prolog_constant" id="LdQ23yiT]e0-Ta$@}x__">
+        <field name="CONSTANT_NAME">miranda</field>
+      </block>
+    </statement>
+    <next>
+      <block type="prolog_fact" id="D,FxQV7N;!dDx*i++s|a">
+        <value name="PREDICATE">
+          <block type="prolog_predicate" id="G+}D%(5zR75COen.x-x`">
+            <field name="PREDICATE_NAME">es_banda</field>
+          </block>
+        </value>
+        <statement name="FACT_ARGS">
+          <shadow type="info_block_statement" id="ADkgSwc88#5Q-$4@y|u`">
+            <field name="TEXT">Terme ..</field>
+          </shadow>
+          <block type="prolog_constant" id="ol`T3SXwqXb98qWX*aD:">
+            <field name="CONSTANT_NAME">los_palmeras</field>
+          </block>
+        </statement>
+        <next>
+          <block type="prolog_fact" id="|hoEZrY,WV/mDV4F]JMT">
+            <value name="PREDICATE">
+              <block type="prolog_predicate" id="$pLV}UC/myV=R.SkV7/l">
+                <field name="PREDICATE_NAME">es_banda</field>
+              </block>
+            </value>
+            <statement name="FACT_ARGS">
+              <shadow type="info_block_statement">
+                <field name="TEXT">Terme ..</field>
+              </shadow>
+              <block type="prolog_constant" id="qp4RKog-=z7OZoxR4UgM">
+                <field name="CONSTANT_NAME">tussiwarriors</field>
+              </block>
+            </statement>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+  <block type="prolog_fact" id=";pBg+c;FK},|I@Ndi!y," x="-1130" y="530">
+    <value name="PREDICATE">
+      <block type="prolog_predicate" id="Rp8O[U2Hu0~g7,tsl0Cs">
+        <field name="PREDICATE_NAME">es_popstar</field>
+      </block>
+    </value>
+    <statement name="FACT_ARGS">
+      <shadow type="info_block_statement" id="b@@_C=9KPkR7g{kx{S!x">
+        <field name="TEXT">Terme ..</field>
+      </shadow>
+      <block type="prolog_constant" id="Qa0cRy/w^g/.^wCeCv-(">
+        <field name="CONSTANT_NAME">lali</field>
+      </block>
+    </statement>
+    <next>
+      <block type="prolog_fact" id="4:yB^:Wbcfzy^S!Psz1^">
+        <value name="PREDICATE">
+          <block type="prolog_predicate" id="`4|V[K#`-ko!K7zlH8HI">
+            <field name="PREDICATE_NAME">es_popstar</field>
+          </block>
+        </value>
+        <statement name="FACT_ARGS">
+          <shadow type="info_block_statement">
+            <field name="TEXT">Terme ..</field>
+          </shadow>
+          <block type="prolog_constant" id="?c7C;le~AcVG]Rf9Z[C0">
+            <field name="CONSTANT_NAME">tini</field>
+          </block>
+        </statement>
+        <next>
+          <block type="prolog_fact" id="Vwm[c[Y~Mdb,P]z+*KjU">
+            <value name="PREDICATE">
+              <block type="prolog_predicate" id="k!Y/-pJ!Z}C;,raz8{r)">
+                <field name="PREDICATE_NAME">es_popstar</field>
+              </block>
+            </value>
+            <statement name="FACT_ARGS">
+              <shadow type="info_block_statement">
+                <field name="TEXT">Terme ..</field>
+              </shadow>
+              <block type="prolog_constant" id="LTsNTeG?zEfuJ*9zb/~y">
+                <field name="CONSTANT_NAME">maria_becerra</field>
+              </block>
+            </statement>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+  <block type="prolog_fact" id="oD*B]J;+d::=mju@n(Q_" x="-890" y="530">
+    <value name="PREDICATE">
+      <block type="prolog_predicate" id=".;LluJg8f0#d,$-dwVH|">
+        <field name="PREDICATE_NAME">es_trapper</field>
+      </block>
+    </value>
+    <statement name="FACT_ARGS">
+      <shadow type="info_block_statement" id="dyd`2qknNH@swyy*Gwgh">
+        <field name="TEXT">Terme ..</field>
+      </shadow>
+      <block type="prolog_constant" id="WUpHCv;mb;o4|ur0^?,R">
+        <field name="CONSTANT_NAME">lit_killah</field>
+      </block>
+    </statement>
+    <next>
+      <block type="prolog_fact" id="J$p!:KdOE0~J,drEd9;`">
+        <value name="PREDICATE">
+          <block type="prolog_predicate" id="!$JdTabuFJT{BaPIYfaD">
+            <field name="PREDICATE_NAME">es_trapper</field>
+          </block>
+        </value>
+        <statement name="FACT_ARGS">
+          <shadow type="info_block_statement">
+            <field name="TEXT">Terme ..</field>
+          </shadow>
+          <block type="prolog_constant" id="0J{fia7e4^Gj|SNGueP2">
+            <field name="CONSTANT_NAME">duki</field>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+  <block type="prolog_fact" id="oSUbP?/PHYQ(KV|P6m4V" x="-1390" y="810">
+    <value name="PREDICATE">
+      <block type="prolog_predicate" id="EGkKxZ;k_dxFDwnf]D]k">
+        <field name="PREDICATE_NAME">en_tendencia</field>
+      </block>
+    </value>
+    <statement name="FACT_ARGS">
+      <shadow type="info_block_statement" id="%3J;j4`|8!s81*FOqyDo">
+        <field name="TEXT">Terme ..</field>
+      </shadow>
+      <block type="prolog_constant" id="|KiY8=S#i.LKQ:]1xD+q">
+        <field name="CONSTANT_NAME">lali</field>
+      </block>
+    </statement>
+    <next>
+      <block type="prolog_fact" id="T:zy`fN?]7`GvuJz[A,(">
+        <value name="PREDICATE">
+          <block type="prolog_predicate" id="%IDmWqX%{*4^Ai$H+-mB">
+            <field name="PREDICATE_NAME">en_tendencia</field>
+          </block>
+        </value>
+        <statement name="FACT_ARGS">
+          <shadow type="info_block_statement">
+            <field name="TEXT">Terme ..</field>
+          </shadow>
+          <block type="prolog_constant" id="Z*pA6X31!CV9H;,+m.Tq">
+            <field name="CONSTANT_NAME">lit_killah</field>
+          </block>
+        </statement>
+        <next>
+          <block type="prolog_fact" id="RzQu57ueYc4MQ%9A+bGy">
+            <value name="PREDICATE">
+              <block type="prolog_predicate" id="tC{l4DRJIysddA!7PDRj">
+                <field name="PREDICATE_NAME">en_tendencia</field>
+              </block>
+            </value>
+            <statement name="FACT_ARGS">
+              <shadow type="info_block_statement">
+                <field name="TEXT">Terme ..</field>
+              </shadow>
+              <block type="prolog_constant" id="9-/4,ZX^Q!0VuV^H!zOf">
+                <field name="CONSTANT_NAME">miranda</field>
+              </block>
+            </statement>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+  <block type="prolog_fact" id="i%LrD({YG$C9;+n}.GaH" x="-1130" y="810">
+    <value name="PREDICATE">
+      <block type="prolog_predicate" id="kFl2tb,D!Vhy_?jM:j;M">
+        <field name="PREDICATE_NAME">tienen_colaboracion</field>
+      </block>
+    </value>
+    <statement name="FACT_ARGS">
+      <shadow type="info_block_statement" id="xgTNR1UD/qHjOaW/0*Tz">
+        <field name="TEXT">Terme ..</field>
+      </shadow>
+      <block type="prolog_constant" id="PVXL24Mo,qb!wyq?fD6O">
+        <field name="CONSTANT_NAME">miranda</field>
+        <next>
+          <block type="prolog_constant" id="c_Z+H|b(p(=chkwKlCC`">
+            <field name="CONSTANT_NAME">lali</field>
+          </block>
+        </next>
+      </block>
+    </statement>
+    <next>
+      <block type="prolog_fact" id="a/9b4^F(mo7S;Su:g!`:">
+        <value name="PREDICATE">
+          <block type="prolog_predicate" id="[%6%vWIEz?5wKqA6X[kl">
+            <field name="PREDICATE_NAME">tienen_colaboracion</field>
+          </block>
+        </value>
+        <statement name="FACT_ARGS">
+          <shadow type="info_block_statement">
+            <field name="TEXT">Terme ..</field>
+          </shadow>
+          <block type="prolog_constant" id="t7FXg=G{-PQmaVasMi?M">
+            <field name="CONSTANT_NAME">tini</field>
+            <next>
+              <block type="prolog_constant" id="sn1uwswa0pROP{-a)8_F">
+                <field name="CONSTANT_NAME">maria_becerra</field>
+              </block>
+            </next>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+  <block type="prolog_query" id="#AgAL{6IZuK**s?!E[X," x="-1390" y="1110">
+    <field name="QUERY_ACTIVE">FALSE</field>
+    <statement name="INPUT">
+      <block type="prolog_query_body" id="$@Hj6;#nV+)jyWd*}Qh1" deletable="false" movable="false">
+        <field name="OPERATOR">AND</field>
+        <statement name="ARGS">
+          <block type="prolog_fact" id="i}TIxDlR;FmJ@,y(}^b8">
+            <value name="PREDICATE">
+              <block type="prolog_predicate" id="NO/:V].N;;}xhNRY8JVx">
+                <field name="PREDICATE_NAME">es_banda</field>
+              </block>
+            </value>
+            <statement name="FACT_ARGS">
+              <shadow type="info_block_statement">
+                <field name="TEXT">Terme ..</field>
+              </shadow>
+              <block type="prolog_constant" id="FqHbsKb#sI6%3rH2uT!}">
+                <field name="CONSTANT_NAME">miranda</field>
+              </block>
+            </statement>
+          </block>
+        </statement>
+      </block>
+    </statement>
+    <next>
+      <block type="prolog_query" id="if,/;e|vGeEQY[r$1K#~">
+        <field name="QUERY_ACTIVE">FALSE</field>
+        <statement name="INPUT">
+          <block type="prolog_query_body" id="^7M)8#0xr[97zH@.6}wF" deletable="false" movable="false">
+            <field name="OPERATOR">AND</field>
+            <statement name="ARGS">
+              <block type="prolog_fact" id="6{8-Cw~2FyDC@H)3)4Mu">
+                <value name="PREDICATE">
+                  <block type="prolog_predicate" id="`5jj*1L#=H,:S=!vrPD7">
+                    <field name="PREDICATE_NAME">es_trapper</field>
+                  </block>
+                </value>
+                <statement name="FACT_ARGS">
+                  <shadow type="info_block_statement">
+                    <field name="TEXT">Terme ..</field>
+                  </shadow>
+                  <block type="prolog_constant" id="ZsryY|k.VZTh2$xA3e+}">
+                    <field name="CONSTANT_NAME">duki</field>
+                  </block>
+                </statement>
+              </block>
+            </statement>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+</xml>

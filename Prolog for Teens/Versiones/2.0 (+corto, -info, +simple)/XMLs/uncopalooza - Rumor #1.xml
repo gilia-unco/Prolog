@@ -1,0 +1,34 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="prolog_fact" id="D,FxQV7N;!dDx*i++s|a" x="-1390" y="470">
+    <value name="PREDICATE">
+      <block type="prolog_predicate" id="G+}D%(5zR75COen.x-x`">
+        <field name="PREDICATE_NAME">es_banda</field>
+      </block>
+    </value>
+    <statement name="FACT_ARGS">
+      <shadow type="info_block_statement" id="ADkgSwc88#5Q-$4@y|u`">
+        <field name="TEXT">Terme ..</field>
+      </shadow>
+      <block type="prolog_constant" id="ol`T3SXwqXb98qWX*aD:">
+        <field name="CONSTANT_NAME">los_palmeras</field>
+      </block>
+    </statement>
+    <next>
+      <block type="prolog_fact" id="!q!M/:P7cPia2*%DX+HF">
+        <value name="PREDICATE">
+          <block type="prolog_predicate" id="MlQSkI%XJM9f[wdA3~Vk">
+            <field name="PREDICATE_NAME">es_banda</field>
+          </block>
+        </value>
+        <statement name="FACT_ARGS">
+          <shadow type="info_block_statement" id="-|oMQur1xa2W~O2x)K.e">
+            <field name="TEXT">Terme ..</field>
+          </shadow>
+          <block type="prolog_constant" id="LdQ23yiT]e0-Ta$@}x__">
+            <field name="CONSTANT_NAME">miranda</field>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+</xml>
